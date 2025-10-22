@@ -1,0 +1,13 @@
+# Phase 1
+google-play-scraper
+panda
+numpy
+python-dateutil
+
+# Phase 2 - Hugging Fce
+transformers
+torch
+accelerate
+sentence-transformers
+chromadb
+scikit-learn

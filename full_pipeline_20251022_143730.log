@@ -1,0 +1,23 @@
+2025-10-22 14:37:52,366 - INFO - Database setup completed with batch support
+2025-10-22 14:37:52,444 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-22 14:37:52,672 - INFO - Use pytorch device_name: cpu
+2025-10-22 14:37:52,673 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-22 14:37:58,354 - INFO - Retrieved 66 reviews from 2025-08-23 to 2025-08-23
+2025-10-22 14:37:58,364 - INFO -   Processing chunk 1/7
+2025-10-22 14:37:59,755 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:01,756 - INFO -   Processing chunk 2/7
+2025-10-22 14:38:03,016 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:05,018 - INFO -   Processing chunk 3/7
+2025-10-22 14:38:06,396 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:08,397 - INFO -   Processing chunk 4/7
+2025-10-22 14:38:09,724 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:11,725 - INFO -   Processing chunk 5/7
+2025-10-22 14:38:13,043 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:15,052 - INFO -   Processing chunk 6/7
+2025-10-22 14:38:16,218 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:18,221 - INFO -   Processing chunk 7/7
+2025-10-22 14:38:19,434 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:21,538 - INFO - Retrieved 100 reviews from 2025-08-24 to 2025-08-24
+2025-10-22 14:38:21,549 - INFO -   Processing chunk 1/10
+2025-10-22 14:38:22,828 - WARNING - No JSON found in LLM response
+2025-10-22 14:38:24,829 - INFO -   Processing chunk 2/10
